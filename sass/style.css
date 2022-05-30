@@ -1,4 +1,38 @@
-body {
-  background: #656878;
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+#main-nav {
+  background: #091239;
+}
+
+#main-nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  width: 100%;
+  list-style: none;
+}
+
+#main-nav ul li {
+  padding: 16px;
+}
+
+#main-nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+section h1 {
+  font-size: 28px;
+  color: #091239;
 }
 /*# sourceMappingURL=style.css.map */
