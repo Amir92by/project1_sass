@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AAKA,AAAA,IAAI,CAAC;EACD,UAAU,ECJG,OAAO;CDKvB",
+    "sources": [
+        "style.scss",
+        "../_variables.scss",
+        "../_placeholdor.scss",
+        "../_buttons.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
